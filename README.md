@@ -4,4 +4,4 @@ github-portfolio/
 │   └── style.css
 ├── assets/
 │   ├── images/
-│   │   └── profile.jpg
+│   │   └── image.jpg
